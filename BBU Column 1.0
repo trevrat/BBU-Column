@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         BBU Count
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.3
 // @description  Add a BBU Count column next to Whip Count in tables on a webpage
 // @author       Trevor Ratcliff
 // @match        *://*/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/trevrat/BBU-Column/main/BBU%20Column%201.2.user.js
-// @downloadURL  https://raw.githubusercontent.com/trevrat/BBU-Column/main/BBU%20Column%201.2.user.js
+// @updateURL    https://raw.githubusercontent.com/trevrat/BBU-Column/main/BBU%20Column%201.0.user.js
+// @downloadURL  https://raw.githubusercontent.com/trevrat/BBU-Column/main/BBU%20Column%201.0.user.js
 // ==/UserScript==
 
 (function() {
