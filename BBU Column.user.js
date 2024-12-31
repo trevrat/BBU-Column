@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BBU Count
 // @namespace    http://tampermonkey.net/
-// @version      1.4
+// @version      1.5
 // @description  Add a BBU Count column next to Whip Count in tables on a webpage
 // @author       trevrat
 // @match        *://*/*
@@ -59,6 +59,6 @@
         });
     }
 
-    // Run the script every 15 seconds
-    setInterval(updateTable, 15000);
+    // Run the script every 10 seconds
+    setInterval(updateTable, 10000);
 })();
