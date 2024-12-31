@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BBU Count
 // @namespace    http://tampermonkey.net/
-// @version      1.3
+// @version      1.4
 // @description  Add a BBU Count column next to Whip Count in tables on a webpage
 // @author       trevrat
 // @match        *://*/*
