@@ -6,6 +6,8 @@
 // @author       trevrat
 // @match        *://*/*
 // @grant        none
+//@updateURL     https://github.com/trevrat/BBU-Column/raw/refs/heads/main/BBU%20Column.user.js
+//@downloadURL   https://github.com/trevrat/BBU-Column/raw/refs/heads/main/BBU%20Column.user.js
 // ==/UserScript==
 
 (function() {
