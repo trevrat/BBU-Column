@@ -6,8 +6,8 @@
 // @author       Trevor Ratcliff
 // @match        *://*/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/trevrat/BBU-Column/main/BBU%20Column%201.0.user.js
-// @downloadURL  https://raw.githubusercontent.com/trevrat/BBU-Column/main/BBU%20Column%201.0.user.js
+// @updateURL    https://raw.githubusercontent.com/trevrat/BBU-Column/main/scripts/bbu-column.js
+// @downloadURL  https://raw.githubusercontent.com/trevrat/BBU-Column/main/scripts/bbu-column.js
 // ==/UserScript==
 
 (function() {
